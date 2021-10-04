@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-My computer is freezes when trying to run the Android emulator with the Google Play Store functionality, so I couldn't verify if the video playing worked. The computer consistently crashed with a CLOCK_WATCHDOG_TIMEOUT code, so it is probably a lack of RAM.
+My computer freezes when trying to run the Android emulator with the Google Play Store functionality, so I couldn't verify if the video playing worked. The computer consistently crashed with a CLOCK_WATCHDOG_TIMEOUT code, so it is probably a lack of RAM.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
